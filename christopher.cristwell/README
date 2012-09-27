@@ -1,0 +1,14 @@
+
+I want you to build me a (very simple) web application for handling short orders at a restaurant. It should consist of (at least) two pages:
+
+1. (waiter's page) A page for submitting an order. This should include a selection box or a list of check boxes that the user can select/check to enumerate the items in the order. There should be at least five items, be creative. There should be a submit button that sends the order back to the server and refreshes so the page is ready for the next order.
+
+2. (cook's page) A page that enumerates the current orders. A simple table should suffice. There should be a button next to each order which lets the user delete the order from the list.
+
+You may use any language you wish, but I'll recommend either perl or javascript. If you use javascript you'll want to use "node.js" (http://nodejs.org/) as your backend/server.
+
+Bonus points if you make the pages render well on smart-phone sized screens.
+
+Extra bonus points if you read up on ReST (Representational State Transfer: http://en.wikipedia.org/wiki/Representational_state_transfer ) and model your application on those principles (we're a ReST shop).
+
+To submit your project make an account on github (https://github.com/), make a fork off of my intern-projects repo (https://github.com/dgc-wh/intern-project) commit your stuff, and submit a pull request back to my repo.
